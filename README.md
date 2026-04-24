@@ -3,7 +3,7 @@
 Hanako Weather, Japon estetiği ile modern web teknolojilerini birleştiren, kullanıcı dostu bir hava durumu ve kişisel günlük uygulamasıdır. Geleneksel Japon tasarım öğelerini (Washi, Wamon, Enso) minimalist bir kullanıcı deneyimi ile sunar.
 
 <div align="center">
-  <img src="./src/assets/Screen-2026-04-24-034631.gif" width="300" alt="Hanako Weather Önizleme" />
+  <img src="./src/assets/Screen-2026-04-24-034631.gif" width="600" alt="Hanako Weather Önizleme" />
 </div>
 
 ## Özellikler
