@@ -10,7 +10,7 @@ Hanako Weather, Japon estetiği ile modern web teknolojilerini birleştiren, kul
 
 - Anlık hava durumu verileri ve 5 günlük detaylı tahmin sunar.
 - Kullanıcıların ruh hallerini ve günlük notlarını kaydedebileceği entegre bir günlük sistemi içerir.
-- Japon kültürüne ait dinamik SVG öğeleri (Sakura yaprakları, Fuji Dağı, Torii kapısı, yüzen Koi balıkları, bambu dalları ve Origami turna kuşu) ile zenginleştirilmiş bir tema sunar.
+- Japon kültürüne ait dinamik SVG öğeleri (Sakura yaprakları, Fuji Dağı, Torii kapısı, bambu dalları ve Origami turna kuşu) ile zenginleştirilmiş bir tema sunar.
 - Hava durumuna göre dinamik olarak değişen arka plan efektleri ve Japon atasözleri (Kotowaza) gösterilir.
 - Glassmorphism ve Washi kağıdı dokusu ile modern bir arayüz tasarımına sahiptir.
 - Verilerin yerel hafızada (LocalStorage) saklanması sayesinde oturumlar arası veri sürekliliği sağlar.
